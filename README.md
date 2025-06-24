@@ -11,6 +11,12 @@ This project explores the Ames Housing dataset as a high-quality alternative to 
 </i>
 <br />
 
+<h2>Documents</h2>
+
+- [Paper (with R code)]()
+
+- [Presentation]()
+
 <h2>Concepts Used</h2>
 
 - <b>Stationarity Testing</b> (Augmented Dickey-Fuller Test)
