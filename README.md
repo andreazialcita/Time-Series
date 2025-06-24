@@ -13,7 +13,7 @@ This project explores the Ames Housing dataset as a high-quality alternative to 
 
 <h2>Documents</h2>
 
-- [Paper (with R code)]()
+- [Paper (with R code)](https://github.com/andreazialcita/Time-Series/blob/main/MATH-62.2-Project-Paper.pdf)
 
 - [Presentation](https://github.com/andreazialcita/Time-Series/blob/main/MATH-62.2-Project-Presentation.pdf)
 
