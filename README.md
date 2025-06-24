@@ -12,14 +12,12 @@ This project explores the Ames Housing dataset as a high-quality alternative to 
 <br />
 
 <h2>Concepts Used</h2>
-
-- <b>Time Series Decomposition</b>
-- <b>Stationarity Testing</b> – Augmented Dickey-Fuller Test
-- <b>Differencing</b> – to achieve stationarity
-- <b>Model Identification</b> – using ACF, PACF, and AIC
-- <b>ARMA Modeling</b> – Autoregressive Moving Average Model
-- <b>Forecasting</b> – Predicting future values
-- <b>Model Diagnostics</b> – Ljung-Box test, causality, invertibility
+- <b>Stationarity Testing</b> (Augmented Dickey-Fuller Test)
+- <b>Differencing</b>
+- <b>Model Identification</b> (using ACF, PACF, and AIC)
+- <b>ARMA Modeling</b>
+- <b>Forecasting</b>
+- <b>Model Diagnostics</b> (Ljung-Box test, causality, invertibility)
 
 <h2>Software Used</h2>
 
