@@ -1,4 +1,4 @@
-<h1>Time Series</h1>
+<h1>Time Series Analysis of Ames Housing Data</h1>
 
 <h2>Description</h2>
 
